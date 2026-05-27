@@ -179,7 +179,21 @@ Features:
 
 ---
 
-# 5. Expressions Engine
+# 5. GRADIENT LOCKER
+- Responsive Gradient Locking
+- Linear & Radial Gradient Support
+- Expression-Based Gradient System
+
+---
+
+# 6. MXCOMP TEMPLATE LIBRARY
+- Save Compositions as Templates
+- Automatic Thumbnail Snapshots
+- Category Management
+- One-Click Template Import
+
+
+# 7. Expressions Engine
 
 Apply advanced mathematical expressions with live controls.
 
@@ -209,7 +223,7 @@ Save custom expressions directly into the panel database.
 
 ---
 
-# 6. Social Media Safe Zones
+# 8. Social Media Safe Zones
 
 Avoid UI overlaps on social platforms.
 
@@ -234,7 +248,7 @@ Instantly remove all overlay guides.
 
 ---
 
-# 7. CaptionX (SRT Caption Automator)
+# 9. CaptionX (SRT Caption Automator)
 
 Automate subtitle workflows inside After Effects.
 
@@ -285,7 +299,7 @@ Updates linked AE text layer comment tags dynamically.
 
 ---
 
-# 8. Client Requirements Editor & Brands Manager
+# 10. Client Requirements Editor & Brands Manager
 
 A built-in creative notepad and brand management system.
 
@@ -332,7 +346,7 @@ Apply saved colors to:
 
 ---
 
-# 9. Panel UI/UX & Aesthetics
+# 11. Panel UI/UX & Aesthetics
 
 Modern interface enhancements.
 
